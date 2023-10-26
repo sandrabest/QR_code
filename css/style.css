@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.parent_block{
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 10%;
+}
+    .image-container {
+        width: 460px; /* Set a fixed width for the container */
+        height: 390px; /* Set a fixed height for the container */
+        color: rgb(40, 23, 23);
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 20px;
+       
+    }
+    
+    .image-container img {
+        width: 350px; /* Ensure the image doesn't exceed the container's size */
+        height: 350px;
+        border-radius: 40px; /* Apply a circle as the border-radius (for full rounding) */
+        padding: 20px 20px 25px 25px;
+        margin-right: auto;
+        
+
+    }
