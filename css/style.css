@@ -44,3 +44,9 @@ body{
         color: hsl(212, 45%, 89%);
 
     }
+    .body2{
+        background-color:hsl(225, 100%, 94%) ;
+        background-image:url('/home/sandrabest/source/swe-class/html/QR_code/images/pattern-background-desktop.svg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
